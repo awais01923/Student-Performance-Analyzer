@@ -82,7 +82,6 @@ Identifies students whose average marks are above 80.
 
 ## 📂 Project Structure
 
-```text
 Student_Performance_Analyzer/
 │
 ├── main.py
@@ -92,16 +91,15 @@ Student_Performance_Analyzer/
 
 Install NumPy:
 
-```bash
 pip install numpy
 
 Run the project:
 
 python main.py
 
+
 ##   Sample Output
 
-```text
 ========== FINAL REPORT ==========
 
 Class Average: 78.90
